@@ -2,5 +2,14 @@
   box-sizing: border-box;
 }
 :root {
-    
+    /* primary colors*/
+    --darkCyan: hsl(185, 75%, 39%);
+    --veryDarkDesaturatedBlue: hsl(229, 23%, 23%);
+    --darkGrayishBlue: hsl(227, 10%, 46%);
+
+    /*neutral color*/
+    --darkGray: hsl(0, 0%, 59%);
+
+    /*font size*/
+    --fontSize: 18px;
 }
